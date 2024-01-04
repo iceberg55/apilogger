@@ -8,7 +8,7 @@
             "AWT\\": "src/"
         }
     },
-    "name": "awt/apilogger",
+    "name": "mikha-dev/apilogger",
     "description": "Small laravel package for viewing api logs which can be used in debugging.",
     "type": "library",
     "license": "MIT",
